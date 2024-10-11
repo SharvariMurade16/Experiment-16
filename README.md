@@ -80,6 +80,12 @@ int main(){
 
 2- <img width="341" alt="image" src="https://github.com/user-attachments/assets/21801d10-0011-49e5-833f-c684576e4893">
 
+## CONCLUSION-
+We learned how to create nodes and insert them into a linked list in C++. This involves defining a node structure and writing functions to add new nodes at different positions within the list. By understanding these methods, we can efficiently handle dynamic data in our applications.
+
+
+
+
 
 
 
